@@ -1,0 +1,24 @@
+[
+  {
+    "email": "ajay@gmail.com",
+    "password": "ajay",
+    "name": "ajay",
+    "address": "0x8fe2502dc5a27060dceb28b9412169c37a9534c0",
+    "balances": {
+      "ETH": 48.2,
+      "SOL": 538,
+      "DOGE": 1000
+    }
+  },
+  {
+    "email": "a@gmail.com",
+    "password": "1234",
+    "name": "caxy",
+    "address": "0xd2dca3efd867aaf27703b5675797c6f88e6c5a05",
+    "balances": {
+      "ETH": 93,
+      "SOL": 150,
+      "DOGE": 1000
+    }
+  }
+]

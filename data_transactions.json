@@ -1,0 +1,49 @@
+[
+  {
+    "fromEmail": "ajay@gmail.com",
+    "fromAddress": "0x8fe2502dc5a27060dceb28b9412169c37a9534c0",
+    "toAddress": "0x8fe2502dc5a27060dceb28b9412169c37a9534c0",
+    "token": "ETH->SOL",
+    "amount": 10,
+    "ethEquivalent": 100,
+    "timestamp": "2025-11-12T03:21:42.914Z"
+  },
+  {
+    "fromEmail": "ajay@gmail.com",
+    "fromAddress": "0x8fe2502dc5a27060dceb28b9412169c37a9534c0",
+    "toAddress": "0x8fe2502dc5a27060dceb28b9412169c37a9534c0",
+    "token": "ETH->SOL",
+    "amount": 50,
+    "ethEquivalent": 500,
+    "timestamp": "2025-11-12T03:22:02.481Z"
+  },
+  {
+    "fromEmail": "ajay@gmail.com",
+    "fromAddress": "0x8fe2502dc5a27060dceb28b9412169c37a9534c0",
+    "toAddress": "0x8fe2502dc5a27060dceb28b9412169c37a9534c0",
+    "token": "SOL->ETH",
+    "amount": 12,
+    "ethEquivalent": 1.2000000000000002,
+    "timestamp": "2025-11-12T03:22:30.568Z"
+  },
+  {
+    "fromEmail": "a@gmail.com",
+    "fromAddress": "0xd2dca3efd867aaf27703b5675797c6f88e6c5a05",
+    "toAddress": "0x8fe2502dc5a27060dceb28b9412169c37a9534c0",
+    "token": "ETH",
+    "amount": 7,
+    "ethEquivalent": 7,
+    "txHash": "0x1f49ae8c80eaf427f0c41e42eb935e73e34c64fc0839531bec3699e91c03eb35",
+    "timestamp": "2025-11-12T03:23:29.614Z"
+  },
+  {
+    "fromEmail": "ajay@gmail.com",
+    "fromAddress": "0x8fe2502dc5a27060dceb28b9412169c37a9534c0",
+    "toAddress": "0xd2dca3efd867aaf27703b5675797c6f88e6c5a05",
+    "token": "SOL",
+    "amount": 100,
+    "ethEquivalent": 10,
+    "txHash": "0x70867a80aad4b2ca0b1a40caad7f552eb5a0afe0419484465274fde47890efe4",
+    "timestamp": "2025-11-12T14:25:41.863Z"
+  }
+]
