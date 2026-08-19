@@ -1,0 +1,36 @@
+npm install localforage framer-motion @mui/icons-material
+
+
+cd server
+npm install
+node server.js
+
+npm install express cors body-parser fs path
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
